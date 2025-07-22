@@ -1,3 +1,4 @@
+import '../AIXORA/assets/js/tiny-slider.js'
 import './style.css'
 
 document.querySelector('#app').innerHTML = `
